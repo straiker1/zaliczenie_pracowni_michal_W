@@ -11,15 +11,18 @@ if v2 != 0:
 else:
     print("Second value is 0!")
 
-''' Operatory porównania
+''' Operatory przypisania
+ =
+ += (x=x+4 <=> x+=4)
+ -= *= /= %= **=
+    
+    Operatory porównania
  ==
  !=
  >
  >=
  <
  <=
-    Operatory przypisania
- =
- += (x=x+4 <=> x+=4)
- -= *= /= %= **=
+    Operatory logiczne
+    and, or, not
 '''
